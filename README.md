@@ -1,4 +1,4 @@
-**IPL Auction 2022: Player Pricing and Distribution Analysis**
+#**IPL Auction 2022: Player Pricing and Distribution Analysis**
 
     Insights into Player Pricing and Team Distribution from IPL Auction 2022.
 
