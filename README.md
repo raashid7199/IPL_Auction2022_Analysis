@@ -6,7 +6,8 @@
 **Introduction:**
 
   In this data analysis project, we inquire into the dynamics of player auctions, exploring the relationships between player attributes and their selling prices. 
-  The dataset under examination encompasses key details about the players, including their names, countries of origin, roles, base prices, selling prices, teams, bids, and team IDs.
+  The dataset under examination encompasses key details about the players, including their names, countries of origin, roles, base prices, 
+  selling prices, teams, bids, and team IDs.
 
 
 **Objective:**
