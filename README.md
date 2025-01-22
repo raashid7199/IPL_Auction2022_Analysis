@@ -11,7 +11,9 @@
 
 **Objective:**
 
-    The primary objective of this project is to uncover insights from the auction data to better understand the factors influencing player prices and team spending. By analyzing the dataset, we aim to:
+    The primary objective of this project is to uncover insights from the auction data to better understand the factors influencing player prices and team spending. 
+    
+    By analyzing the dataset, we aim to:
 
     -> Explore Player Dynamics: Investigate how player attributes such as role, base price, and country impact their selling price.
 
@@ -22,7 +24,8 @@
     -> Assess Auction Outcomes: Determine the distribution of players sold at base price, above base price, or unsold.
 
     
-    -> Visualize Data: Utilize visualizations to represent the distribution of player prices, spending by teams, and other key metrics, providing clear and actionable insights.
+    -> Visualize Data: Utilize visualizations to represent the distribution of player prices, spending by teams, and other key metrics, 
+       providing clear and actionable insights.
 
   
 **Tools and Techniques:**
