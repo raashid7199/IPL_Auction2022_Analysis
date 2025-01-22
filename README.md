@@ -1,11 +1,14 @@
 **IPL Auction 2022: Player Pricing and Distribution Analysis**
 
+
     Insights into Player Pricing and Team Distribution from IPL Auction 2022.
+
 
 **Introduction:**
 
   In this data analysis project, we inquire into the dynamics of player auctions, exploring the relationships between player attributes and their selling prices. 
   The dataset under examination encompasses key details about the players, including their names, countries of origin, roles, base prices, selling prices, teams, bids, and team IDs.
+
 
 **Objective:**
 
@@ -15,7 +18,8 @@
     -> Analyze Team Spending: Examine the total spending by each team and identify any significant trends or patterns.
     -> Assess Auction Outcomes: Determine the distribution of players sold at base price, above base price, or unsold.
     -> Visualize Data: Utilize visualizations to represent the distribution of player prices, spending by teams, and other key metrics, providing clear and actionable insights.
-		
+
+  
 **Tools and Techniques:**
 
     -> NumPy: For efficient numerical operations and data manipulation.
