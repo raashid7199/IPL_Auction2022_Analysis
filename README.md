@@ -11,15 +11,17 @@ Please find the related **Medium** article here:
 
 **Introduction:**
 
-  In this data analysis project, we inquire into the dynamics of player auctions, exploring the relationships between player attributes and their selling prices. 
-  The dataset under examination encompasses key details about the players, including their names, countries of origin, roles, base prices, 
-  selling prices, teams, bids, and team IDs.
+
+In this data analysis project, we inquire into the dynamics of player auctions, exploring the relationships between player attributes and their selling prices. 
+The dataset under examination encompasses key details about the players, including their names, countries of origin, roles, base prices, 
+selling prices, teams, bids, and team IDs.
 
 
 
 **Objective:**
 
-    The primary objective of this project is to uncover insights from the auction data to better understand the factors influencing player prices and team spending. 
+
+The primary objective of this project is to uncover insights from the auction data to better understand the factors influencing player prices and team spending. 
     
     
     
