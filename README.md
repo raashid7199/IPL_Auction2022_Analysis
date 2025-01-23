@@ -1,6 +1,3 @@
-**IPL Auction 2022: Player Pricing and Distribution Analysis**
-
-
 Please find the related **Medium** article here:
 
 
@@ -8,6 +5,8 @@ Please find the related **Medium** article here:
 
 
 
+
+**IPL Auction 2022: Player Pricing and Distribution Analysis**
 
 
 **Introduction:**
