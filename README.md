@@ -5,7 +5,6 @@ Please find the related **Medium** article here:
 
 
 
-
 **IPL Auction 2022: Player Pricing and Distribution Analysis**
 
 
