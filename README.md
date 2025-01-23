@@ -1,6 +1,13 @@
 **IPL Auction 2022: Player Pricing and Distribution Analysis**
 
 
+Please find the related **Medium** article here:
+
+
+ https://medium.com/@connect2_raashid199/ipl-auction-2022-player-pricing-and-distribution-analysis-71271b4fc100
+
+
+
 
 
 **Introduction:**
@@ -9,11 +16,6 @@
   The dataset under examination encompasses key details about the players, including their names, countries of origin, roles, base prices, 
   selling prices, teams, bids, and team IDs.
 
-
- Please find the related **Medium** article here:
-
-
- https://medium.com/@connect2_raashid199/ipl-auction-2022-player-pricing-and-distribution-analysis-71271b4fc100
 
 
 **Objective:**
