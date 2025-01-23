@@ -21,19 +21,16 @@ Please find the related **Medium** article here:
 
     The primary objective of this project is to uncover insights from the auction data to better understand the factors influencing player prices and team spending. 
     
-    By analyzing the dataset, we aim to:
+   ** Explore Player Dynamics:** Investigate how role, base price, and country influence selling price.
 
-    -> Explore Player Dynamics: Investigate how player attributes such as role, base price, and country impact their selling price.
+   
+	  **Analyze Team Spending:** Examine total team spending and identify trends.
 
-    
-    -> Analyze Team Spending: Examine the total spending by each team and identify any significant trends or patterns.
+			
+			**	Assess Auction Outcomes:** Analyze the distribution of players sold at base price, above it, or unsold.
 
-    
-    -> Assess Auction Outcomes: Determine the distribution of players sold at base price, above base price, or unsold.
-
-    
-    -> Visualize Data: Utilize visualizations to represent the distribution of player prices, spending by teams, and other key metrics, 
-       providing clear and actionable insights.
+			
+			**	Visualize Data:** Create clear visualizations of player prices, team spending, and key metrics.
 
   
 **Tools and Techniques:**
