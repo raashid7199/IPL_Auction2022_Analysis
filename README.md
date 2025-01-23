@@ -10,6 +10,12 @@
   selling prices, teams, bids, and team IDs.
 
 
+ Please find the related **Medium** article here:
+
+
+ https://medium.com/@connect2_raashid199/ipl-auction-2022-player-pricing-and-distribution-analysis-71271b4fc100
+
+
 **Objective:**
 
     The primary objective of this project is to uncover insights from the auction data to better understand the factors influencing player prices and team spending. 
