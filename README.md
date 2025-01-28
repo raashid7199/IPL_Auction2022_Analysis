@@ -1,8 +1,7 @@
 Please find the related **Medium** article here:
 
 
- https://medium.com/@connect2_raashid199/ipl-auction-2022-player-pricing-and-distribution-analysis-71271b4fc100
-
+ https://medium.com/@raashidnarrates/ipl-auction-2022-player-pricing-and-distribution-analysis-71271b4fc100
 
 
 **IPL Auction 2022: Player Pricing and Distribution Analysis**
