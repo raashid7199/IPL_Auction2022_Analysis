@@ -44,3 +44,6 @@ The primary objective of this project is to uncover insights from the auction da
 
     
 **Matplotlib:** For creating visualizations to illustrate key findings and trends in the data.
+
+
+**Seaborn:** For creating statistical plots that simplify data exploration and highlight patterns in the data.
