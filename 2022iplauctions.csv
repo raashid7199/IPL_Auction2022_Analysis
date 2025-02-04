@@ -1,0 +1,591 @@
+Player Name,Country,Role,Base_Price,Selling_Price,Team,Bid,Team_ID
+Mahipal Lomror,India,ALL-ROUNDER,4000000,9500000,Royal Challengers Bangalore,SOLD,RCB
+K Gowtham,India,ALL-ROUNDER,5000000,9000000,Lucknow Super Giants,SOLD,LSG
+Kagiso Rabada,South Africa,BOWLER,20000000,92500000,Punjab Kings,SOLD,PK
+Shahrukh Khan,India,ALL-ROUNDER,4000000,90000000,Punjab Kings,SOLD,PK
+Rahul Tewatia,India,ALL-ROUNDER,4000000,90000000,Gujarat Titans,SOLD,GT
+Finn Allen,New Zealand,BATSMAN,5000000,8000000,Royal Challengers Bangalore,SOLD,RCB
+Jason Holder,West Indies,ALL-ROUNDER,15000000,87500000,Lucknow Super Giants,SOLD,LSG
+Washington Sundar,India,ALL-ROUNDER,15000000,87500000,Sunrisers Hyderabad,SOLD,SRH
+Shimron Hetmyer,West Indies,BATSMAN,15000000,85000000,Rajasthan Royals,SOLD,RR
+Rahul Tripathi,India,BATSMAN,4000000,85000000,Sunrisers Hyderabad,SOLD,SRH
+Shikhar Dhawan,India,BATSMAN,20000000,82500000,Punjab Kings,SOLD,PK
+Krunal Pandya,India,ALL-ROUNDER,20000000,82500000,Lucknow Super Giants,SOLD,LSG
+Tim David,Australia,ALL-ROUNDER,4000000,82500000,Mumbai Indians,SOLD,MI
+Nitish Rana,India,ALL-ROUNDER,10000000,80000000,Kolkata Knight Riders,SOLD,KKR
+Trent Boult,New Zealand,BOWLER,20000000,80000000,Rajasthan Royals,SOLD,RR
+Jofra Archer,England,ALL-ROUNDER,20000000,80000000,Mumbai Indians,SOLD,MI
+Shreyas Gopal,India,BOWLER,2000000,7500000,Sunrisers Hyderabad,SOLD,SRH
+Daryl Mitchell,New Zealand,ALL-ROUNDER,7500000,7500000,Rajasthan Royals,SOLD,RR
+Jason Behrendorff,Australia,BOWLER,7500000,7500000,Royal Challengers Bangalore,SOLD,RCB
+Nathan Ellis,Australia,BOWLER,7500000,7500000,Punjab Kings,SOLD,PK
+Siddharth Kaul,India,BOWLER,7500000,7500000,Royal Challengers Bangalore,SOLD,RCB
+Obed Mccoy,West Indies,BOWLER,7500000,7500000,Rajasthan Royals,SOLD,RR
+Fabian Allen,West Indies,ALL-ROUNDER,7500000,7500000,Mumbai Indians,SOLD,MI
+Maheesh Theekshana,Sri Lanka,BOWLER,5000000,7000000,Chennai Super Kings,SOLD,CSK
+Devdutt Padikkal,India,BATSMAN,20000000,77500000,Rajasthan Royals,SOLD,RR
+Josh Hazlewood,Australia,BOWLER,20000000,77500000,Royal Challengers Bangalore,SOLD,RCB
+Romario Shepherd,West Indies,ALL-ROUNDER,7500000,77500000,Sunrisers Hyderabad,SOLD,SRH
+Mark Wood,England,BOWLER,20000000,75000000,Lucknow Super Giants,SOLD,LSG
+Pat Cummins,Australia,ALL-ROUNDER,20000000,72500000,Kolkata Knight Riders,SOLD,KKR
+Shivam Mavi,India,ALL-ROUNDER,4000000,72500000,Kolkata Knight Riders,SOLD,KKR
+Faf Du Plessis,South Africa,BATSMAN,20000000,70000000,Royal Challengers Bangalore,SOLD,RCB
+Lalit Yadav,India,ALL-ROUNDER,2000000,6500000,Delhi Capitals,SOLD,DC
+Lalit Yadav,India,BOWLER,2000000,6500000,Delhi Capitals,SOLD,DC
+Mayank Markande,India,BOWLER,5000000,6500000,Mumbai Indians,SOLD,MI
+Prabhsimran Singh,India,WICKETKEEPER,2000000,6000000,Punjab Kings,SOLD,PK
+Sheldon Jackson,India,WICKETKEEPER,3000000,6000000,Kolkata Knight Riders,SOLD,KKR
+Jonny Bairstow,England,WICKETKEEPER,15000000,67500000,Punjab Kings,SOLD,PK
+Quinton De Kock,South Africa,WICKETKEEPER,20000000,67500000,Lucknow Super Giants,SOLD,LSG
+Ambati Rayudu,India,WICKETKEEPER,20000000,67500000,Chennai Super Kings,SOLD,CSK
+Mitchell Marsh,Australia,ALL-ROUNDER,20000000,65000000,Delhi Capitals,SOLD,DC
+Yuzvendra Chahal,India,BOWLER,20000000,65000000,Rajasthan Royals,SOLD,RR
+Abhishek Sharma,India,ALL-ROUNDER,2000000,65000000,Sunrisers Hyderabad,SOLD,SRH
+Mohammad Shami,India,BOWLER,20000000,62500000,Gujarat Titans,SOLD,GT
+David Warner,Australia,BATSMAN,20000000,62500000,Delhi Capitals,SOLD,DC
+Odean Smith,West Indies,ALL-ROUNDER,10000000,60000000,Punjab Kings,SOLD,PK
+Rinku Singh,India,BATSMAN,2000000,5500000,Kolkata Knight Riders,SOLD,KKR
+Ashok Sharma,India,BOWLER,2000000,5500000,Kolkata Knight Riders,SOLD,KKR
+Rishi Dhawan,India,ALL-ROUNDER,5000000,5500000,Punjab Kings,SOLD,PK
+Vishnu Vinod,India,WICKETKEEPER,2000000,5000000,Sunrisers Hyderabad,SOLD,SRH
+Ankit Singh Rajpoot,India,BOWLER,2000000,5000000,Lucknow Super Giants,SOLD,LSG
+Yash Dhull,India,ALL-ROUNDER,2000000,5000000,Delhi Capitals,SOLD,DC
+Sanjay Yadav,India,ALL-ROUNDER,2000000,5000000,Mumbai Indians,SOLD,MI
+Pravin Dubey,India,ALL-ROUNDER,2000000,5000000,Delhi Capitals,SOLD,DC
+Lungisani Ngidi,South Africa,BOWLER,5000000,5000000,Delhi Capitals,SOLD,DC
+Sandeep Sharma,India,BOWLER,5000000,5000000,Punjab Kings,SOLD,PK
+Shahbaz Nadeem,India,BOWLER,5000000,5000000,Lucknow Super Giants,SOLD,LSG
+Karn Sharma,India,BOWLER,5000000,5000000,Royal Challengers Bangalore,SOLD,RCB
+Dwaine Pretorius,South Africa,ALL-ROUNDER,5000000,5000000,Chennai Super Kings,SOLD,CSK
+Tim Seifert,New Zealand,WICKETKEEPER,5000000,5000000,Delhi Capitals,SOLD,DC
+Fazalhaq Farooqi,Afghanistan,BOWLER,5000000,5000000,Sunrisers Hyderabad,SOLD,SRH
+Bhanuka Rajapaksa,Sri Lanka,BATSMAN,5000000,5000000,Punjab Kings,SOLD,PK
+Gurkeerat Singh,India,ALL-ROUNDER,5000000,5000000,Gujarat Titans,SOLD,GT
+Charith Asalanka,Sri Lanka,ALL-ROUNDER,5000000,5000000,Kolkata Knight Riders,SOLD,KKR
+Varun Aaron,India,BOWLER,5000000,5000000,Gujarat Titans,SOLD,GT
+Kyle Mayers,West Indies,ALL-ROUNDER,5000000,5000000,Lucknow Super Giants,SOLD,LSG
+Deepak Hooda,India,ALL-ROUNDER,4000000,57500000,Lucknow Super Giants,SOLD,LSG
+Dinesh Karthik,India,WICKETKEEPER,20000000,55000000,Royal Challengers Bangalore,SOLD,RCB
+Syed Khaleel Ahmed,India,BOWLER,5000000,52500000,Delhi Capitals,SOLD,DC
+Rahul Chahar,India,BOWLER,7500000,52500000,Punjab Kings,SOLD,PK
+R Ashwin,India,ALL-ROUNDER,20000000,50000000,Rajasthan Royals,SOLD,RR
+Abhijeet Tomar,India,BATSMAN,2000000,4000000,Kolkata Knight Riders,SOLD,KKR
+Benny Howell,England,ALL-ROUNDER,4000000,4000000,Punjab Kings,SOLD,PK
+Manish Pandey,India,BATSMAN,10000000,46000000,Lucknow Super Giants,SOLD,LSG
+Dwayne Bravo,West Indies,ALL-ROUNDER,20000000,44000000,Chennai Super Kings,SOLD,CSK
+Bhuvneshwar Kumar,India,BOWLER,20000000,42000000,Sunrisers Hyderabad,SOLD,SRH
+Marco Jansen,South Africa,ALL-ROUNDER,5000000,42000000,Sunrisers Hyderabad,SOLD,SRH
+Chetan Sakariya,India,BOWLER,5000000,42000000,Delhi Capitals,SOLD,DC
+T Natarajan,India,BOWLER,10000000,40000000,Sunrisers Hyderabad,SOLD,SRH
+Kartik Tyagi,India,BOWLER,2000000,40000000,Sunrisers Hyderabad,SOLD,SRH
+Shivam Dube,India,ALL-ROUNDER,5000000,40000000,Chennai Super Kings,SOLD,CSK
+KC Cariappa,India,BOWLER,2000000,3000000,Rajasthan Royals,SOLD,RR
+Suyash Prabhudessai,India,ALL-ROUNDER,2000000,3000000,Royal Challengers Bangalore,SOLD,RCB
+Arjun Tendulkar,India,ALL-ROUNDER,2000000,3000000,Mumbai Indians,SOLD,MI
+Basil Thampi,India,BOWLER,3000000,3000000,Mumbai Indians,SOLD,MI
+Noor Ahmad,Afghanistan,BOWLER,3000000,3000000,Gujarat Titans,SOLD,GT
+Harpreet Brar,India,ALL-ROUNDER,2000000,38000000,Punjab Kings,SOLD,PK
+Riyan Parag,India,ALL-ROUNDER,3000000,38000000,Rajasthan Royals,SOLD,RR
+Chris Jordan,England,ALL-ROUNDER,20000000,36000000,Chennai Super Kings,SOLD,CSK
+Anuj Rawat,India,WICKETKEEPER,2000000,34000000,Royal Challengers Bangalore,SOLD,RCB
+Yash Dayal,India,BOWLER,2000000,32000000,Gujarat Titans,SOLD,GT
+David Miller,South Africa,BATSMAN,10000000,30000000,Gujarat Titans,SOLD,GT
+Dewald Brevis,South Africa,BATSMAN,2000000,30000000,Mumbai Indians,SOLD,MI
+R Sai Kishore,India,BOWLER,2000000,30000000,Gujarat Titans,SOLD,GT
+Ishan Porel,India,BOWLER,2000000,2500000,Punjab Kings,SOLD,PK
+Chama Milind,India,BOWLER,2000000,2500000,Royal Challengers Bangalore,SOLD,RCB
+Priyam Garg,India,BATSMAN,2000000,2000000,Sunrisers Hyderabad,SOLD,SRH
+Ashwin Hebbar,India,BATSMAN,2000000,2000000,Delhi Capitals,SOLD,DC
+CHari Nishaanth,India,BATSMAN,2000000,2000000,Chennai Super Kings,SOLD,CSK
+Anmolpreet Singh,India,BATSMAN,2000000,2000000,Mumbai Indians,SOLD,MI
+Sarfaraz Khan,India,ALL-ROUNDER,2000000,2000000,Delhi Capitals,SOLD,DC
+N Jagadeesan,India,WICKETKEEPER,2000000,2000000,Chennai Super Kings,SOLD,CSK
+Jitesh Sharma,India,WICKETKEEPER,2000000,2000000,Punjab Kings,SOLD,PK
+KM Asif,India,BOWLER,2000000,2000000,Chennai Super Kings,SOLD,CSK
+Akash Deep,India,BOWLER,2000000,2000000,Royal Challengers Bangalore,SOLD,RCB
+Tushar Deshpande,India,BOWLER,2000000,2000000,Chennai Super Kings,SOLD,CSK
+Jagadeesha Suchith,India,BOWLER,2000000,2000000,Sunrisers Hyderabad,SOLD,SRH
+Manan Vohra,India,BATSMAN,2000000,2000000,Lucknow Super Giants,SOLD,LSG
+Darshan Nalkande,India,ALL-ROUNDER,2000000,2000000,Gujarat Titans,SOLD,GT
+Vicky Ostwal,India,ALL-ROUNDER,2000000,2000000,Delhi Capitals,SOLD,DC
+Ripal Patel,India,ALL-ROUNDER,2000000,2000000,Delhi Capitals,SOLD,DC
+Anukul Roy,India,ALL-ROUNDER,2000000,2000000,Kolkata Knight Riders,SOLD,KKR
+Kuldeep Sen,India,BOWLER,2000000,2000000,Rajasthan Royals,SOLD,RR
+Simarjeet Singh,India,BOWLER,2000000,2000000,Chennai Super Kings,SOLD,CSK
+Subhranshu Senapati,India,BATSMAN,2000000,2000000,Chennai Super Kings,SOLD,CSK
+Prerak Mankad,India,ALL-ROUNDER,2000000,2000000,Punjab Kings,SOLD,PK
+Ramandeep Singh,India,ALL-ROUNDER,2000000,2000000,Mumbai Indians,SOLD,MI
+B Sai Sudharsan,India,ALL-ROUNDER,2000000,2000000,Gujarat Titans,SOLD,GT
+Atharva Taide,India,ALL-ROUNDER,2000000,2000000,Punjab Kings,SOLD,PK
+Dhruv Jurel,India,WICKETKEEPER,2000000,2000000,Rajasthan Royals,SOLD,RR
+Aryan Juyal,India,WICKETKEEPER,2000000,2000000,Mumbai Indians,SOLD,MI
+Luvnith Sisodia,India,WICKETKEEPER,2000000,2000000,Royal Challengers Bangalore,SOLD,RCB
+Mukesh Choudhary,India,BOWLER,2000000,2000000,Chennai Super Kings,SOLD,CSK
+Rasikh Dar,India,BOWLER,2000000,2000000,Kolkata Knight Riders,SOLD,KKR
+Mohsin Khan,India,BOWLER,2000000,2000000,Lucknow Super Giants,SOLD,LSG
+Mayank Yadav,India,BOWLER,2000000,2000000,Lucknow Super Giants,SOLD,LSG
+Tejas Baroka,India,BOWLER,2000000,2000000,Rajasthan Royals,SOLD,RR
+Rahul Buddhi,India,BATSMAN,2000000,2000000,Mumbai Indians,SOLD,MI
+Ayush Badoni,India,ALL-ROUNDER,2000000,2000000,Lucknow Super Giants,SOLD,LSG
+Aneeshwar Gautam,India,ALL-ROUNDER,2000000,2000000,Royal Challengers Bangalore,SOLD,RCB
+Baba Indrajith,India,WICKETKEEPER,2000000,2000000,Kolkata Knight Riders,SOLD,KKR
+Kuldip Yadav,India,BOWLER,2000000,2000000,Rajasthan Royals,SOLD,RR
+R Samarth,India,BATSMAN,2000000,2000000,Sunrisers Hyderabad,SOLD,SRH
+Aman Khan,India,ALL-ROUNDER,2000000,2000000,Kolkata Knight Riders,SOLD,KKR
+Pradeep Sangwan,India,ALL-ROUNDER,2000000,2000000,Gujarat Titans,SOLD,GT
+Ramesh Kumar,India,BATSMAN,2000000,2000000,Kolkata Knight Riders,SOLD,KKR
+Pratham Singh,India,BATSMAN,2000000,2000000,Kolkata Knight Riders,SOLD,KKR
+Writtick Chatterjee,India,ALL-ROUNDER,2000000,2000000,Punjab Kings,SOLD,PK
+Hrithik Shokeen,India,ALL-ROUNDER,2000000,2000000,Mumbai Indians,SOLD,MI
+Shashank Singh,India,ALL-ROUNDER,2000000,2000000,Sunrisers Hyderabad,SOLD,SRH
+Karan Sharma,India,ALL-ROUNDER,2000000,2000000,Lucknow Super Giants,SOLD,LSG
+Baltej Dhanda,India,BOWLER,2000000,2000000,Punjab Kings,SOLD,PK
+Saurabh Dubey,India,BOWLER,2000000,2000000,Sunrisers Hyderabad,SOLD,SRH
+Mohd Arshad Khan,India,ALL-ROUNDER,2000000,2000000,Mumbai Indians,SOLD,MI
+Ansh Patel,India,ALL-ROUNDER,2000000,2000000,Punjab Kings,SOLD,PK
+KBhagath Varma,India,ALL-ROUNDER,2000000,2000000,Chennai Super Kings,SOLD,CSK
+Shubham Garhwal,India,ALL-ROUNDER,2000000,2000000,Rajasthan Royals,SOLD,RR
+Anunay Singh,India,ALL-ROUNDER,2000000,2000000,Rajasthan Royals,SOLD,RR
+Rovman Powell,West Indies,BATSMAN,7500000,28000000,Delhi Capitals,SOLD,DC
+Aiden Markram,South Africa,BATSMAN,10000000,26000000,Sunrisers Hyderabad,SOLD,SRH
+Daniel Sams,Australia,ALL-ROUNDER,10000000,26000000,Mumbai Indians,SOLD,MI
+Abhinav Sadarangani,India,BATSMAN,2000000,26000000,Gujarat Titans,SOLD,GT
+Navdeep Saini,India,BOWLER,7500000,26000000,Rajasthan Royals,SOLD,RR
+Matthew Wade,Australia,WICKETKEEPER,20000000,24000000,Gujarat Titans,SOLD,GT
+Shahbaz Ahamad,India,ALL-ROUNDER,3000000,24000000,Royal Challengers Bangalore,SOLD,RCB
+Sean Abbott,Australia,BOWLER,7500000,24000000,Sunrisers Hyderabad,SOLD,SRH
+Alzaari Joseph,West Indies,BOWLER,7500000,24000000,Gujarat Titans,SOLD,GT
+Kuldeep Yadav,India,BOWLER,10000000,20000000,Delhi Capitals,SOLD,DC
+Jason Roy,England,BATSMAN,20000000,20000000,Gujarat Titans,SOLD,GT
+Robin Uthappa,India,BATSMAN,20000000,20000000,Chennai Super Kings,SOLD,CSK
+Sam Billings,England,WICKETKEEPER,20000000,20000000,Kolkata Knight Riders,SOLD,KKR
+Mustafizur Rahman,Bangladesh,BOWLER,20000000,20000000,Delhi Capitals,SOLD,DC
+Umesh Yadav,India,BOWLER,20000000,20000000,Kolkata Knight Riders,SOLD,KKR
+Nathan Coulter-Nile,Australia,BOWLER,20000000,20000000,Rajasthan Royals,SOLD,RR
+Evin Lewis,West Indies,BATSMAN,20000000,20000000,Lucknow Super Giants,SOLD,LSG
+David Willey,England,ALL-ROUNDER,20000000,20000000,Royal Challengers Bangalore,SOLD,RCB
+KS Bharat,India,WICKETKEEPER,2000000,20000000,Delhi Capitals,SOLD,DC
+Raj Angad Bawa,India,ALL-ROUNDER,2000000,20000000,Punjab Kings,SOLD,PK
+Vaibhav Arora,India,BOWLER,2000000,20000000,Punjab Kings,SOLD,PK
+Dushmanta Chameera,Sri Lanka,BOWLER,5000000,20000000,Lucknow Super Giants,SOLD,LSG
+Ishan Kishan,India,WICKETKEEPER,20000000,152500000,Mumbai Indians,SOLD,MI
+Deepak Chahar,India,BOWLER,20000000,140000000,Chennai Super Kings,SOLD,CSK
+Shreyas Iyer,India,BATSMAN,20000000,122500000,Kolkata Knight Riders,SOLD,KKR
+Liam Livingstone,England,ALL-ROUNDER,10000000,115000000,Punjab Kings,SOLD,PK
+Wanindu Hasaranga,Sri Lanka,ALL-ROUNDER,10000000,107500000,Royal Challengers Bangalore,SOLD,RCB
+Nicholas Pooran,West Indies,WICKETKEEPER,15000000,107500000,Sunrisers Hyderabad,SOLD,SRH
+Harshal Patel,India,ALL-ROUNDER,20000000,107500000,Royal Challengers Bangalore,SOLD,RCB
+Shardul Thakur,India,BOWLER,20000000,107500000,Delhi Capitals,SOLD,DC
+Prasidh Krishna,India,BOWLER,10000000,100000000,Rajasthan Royals,SOLD,RR
+Lockie Ferguson,New Zealand,BOWLER,20000000,100000000,Gujarat Titans,SOLD,GT
+Avesh Khan,India,BOWLER,2000000,100000000,Lucknow Super Giants,SOLD,LSG
+Wriddhiman Saha,India,WICKETKEEPER,10000000,19000000,Gujarat Titans,SOLD,GT
+Mitchell Santner,New Zealand,ALL-ROUNDER,10000000,19000000,Chennai Super Kings,SOLD,CSK
+Adam Milne,New Zealand,BOWLER,15000000,19000000,Chennai Super Kings,SOLD,CSK
+Jayant Yadav,India,ALL-ROUNDER,10000000,17000000,Gujarat Titans,SOLD,GT
+N Tilak Varma,India,ALL-ROUNDER,2000000,17000000,Mumbai Indians,SOLD,MI
+Murugan Ashwin,India,BOWLER,2000000,16000000,Mumbai Indians,SOLD,MI
+Tymal Mills,England,BOWLER,10000000,15000000,Mumbai Indians,SOLD,MI
+James Neesham,New Zealand,ALL-ROUNDER,15000000,15000000,Rajasthan Royals,SOLD,RR
+Alex Hales,England,BATSMAN,15000000,15000000,Kolkata Knight Riders,SOLD,KKR
+Glenn Phillips,New Zealand,WICKETKEEPER,15000000,15000000,Sunrisers Hyderabad,SOLD,SRH
+Tim Southee,New Zealand,BOWLER,15000000,15000000,Kolkata Knight Riders,SOLD,KKR
+Rajvardhan Hangargekar,India,ALL-ROUNDER,3000000,15000000,Chennai Super Kings,SOLD,CSK
+Vijay Shankar,India,ALL-ROUNDER,5000000,14000000,Gujarat Titans,SOLD,GT
+Karun Nair,India,BATSMAN,5000000,14000000,Rajasthan Royals,SOLD,RR
+Jaydev Unadkat,India,BOWLER,7500000,13000000,Mumbai Indians,SOLD,MI
+Prashant Solanki,India,BOWLER,2000000,12000000,Chennai Super Kings,SOLD,CSK
+Kamlesh Nagarkoti,India,ALL-ROUNDER,4000000,11000000,Delhi Capitals,SOLD,DC
+Mandeep Singh,India,BATSMAN,5000000,11000000,Delhi Capitals,SOLD,DC
+Dominic Drakes,West Indies,ALL-ROUNDER,7500000,11000000,Gujarat Titans,SOLD,GT
+Mohammad Nabi,Afghanistan,ALL-ROUNDER,10000000,10000000,Kolkata Knight Riders,SOLD,KKR
+Ajinkya Rahane,India,BATSMAN,10000000,10000000,Kolkata Knight Riders,SOLD,KKR
+Devon Conway,New Zealand,BATSMAN,10000000,10000000,Chennai Super Kings,SOLD,CSK
+Rassie Van Der Dussen,South Africa,BATSMAN,10000000,10000000,Rajasthan Royals,SOLD,RR
+Sherfane Rutherford,West Indies,ALL-ROUNDER,10000000,10000000,Royal Challengers Bangalore,SOLD,RCB
+Riley Meredith,Australia,BOWLER,10000000,10000000,Mumbai Indians,SOLD,MI
+Atharva Ankolekar,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Tanay Thyagarajan,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Saurabh Kumar,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Shams Mulani,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Dhruv Patel,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Atit Sheth,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Utkarsh Singh,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Baba Aparajith,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Prayas Barman,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Yudhvir Charak,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Shubhang Hegde,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Roosh Kalaria,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Tanush Kotian,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Kaushal Tambe,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Shivank Vashisth,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Akshay Karnewar,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Suyash Kumar,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Abid Mushtaq,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Lone Muzaffar,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Ninad Rathva,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Shoun Roger,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Amit Ali,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Chaitanya Bishnoi,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Mayank Dagar,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Shivam Sharma,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Pratyush Singh,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Sanvir Singh,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Dhrushant Soni,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+M Venkatesh,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Auqib Dar,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Chirag Gandhi,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Sijomon Joseph,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Anirudha Joshi,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Shubham Sharma,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Shubham Singh,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Diwesh Pathania,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Shubham Ranjane,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Sagar Trivedi,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Harsh Tyagi,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+R Vivek,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+RSonu Yadav,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Jay Bista,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Saurav Chuahan,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Tajinder Dhillon,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Dikshanshu Negi,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Abhishek Raut,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+KV Sasikanth,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Bharat Sharma,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Shivam Sharma,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Ankit Yadav,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Manoj Bhandage,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Arun Chaprana,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Ajay Dev Goud,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Divyang Hinganekar,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Azim Kazi,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Sujit Nayak,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Parth Sahani,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Ashutosh Sharma,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Vivrant Sharma,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Kumar Kartikeya Singh,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Ravi Chauhan,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+M Mohammed,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Pulkit Narang,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Pradosh Paul,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Pushpendra Singh Rathore,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Purnank Tyagi,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Samarth Vyas,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Dev Lakra,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Ajay Mandal,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Lakhan Raja,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Girinath Reddy,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Siddhant Sharma,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Saurin Thakar,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Yuvraj Chaudhary,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Khizar Dafedar,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Sahil Dhiwan,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Arjit Gupta,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Mickil Jaiswal,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+J Kousik,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Jitender Pal,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Jonty Sidhu,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Yashovardhan Singh,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Pranshu Vijayran,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Ishan Afridi,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Mohammed Afridi,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Prerit Agrawal,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Nidhish Rajagopal,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Bavanaka Sandeep,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Maxwell Swaminathan,India,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+M Siddharth,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Arzan Nagwaswalla,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Akash Singh,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Yash Thakur,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Vasu Vats,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Mujtaba Yousuf,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Pankaj Jaswal,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Lukman Hussain Meriwala,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Vyshak Vijay Kumar,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Zeeshan Ansari,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Yuvraj Chudasama,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Dharmendrasinh Jadeja,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Khrievitso Kense,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Prince Balwant Rai,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Pardeep Sahu,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Sudhesan Midhun,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Mohit Avasthi,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Sushant Mishra,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+G Periyasamy,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+MHarishankar Reddy,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+R Silambarasan,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Aditya Thakare,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Tanveer Ul Haq,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Prithiviraj Yerra,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Satyajeet Bachhav,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Chintal Gandhi,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Manav Suthar,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Milind Tandon,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Sagar Udeshi,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Kushaal Wadhwani,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Akshay Wakhare,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Stephen Cheepurupalli,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Aniket Choudhary,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Kartikeya Kak,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Kulwant Khejroliya,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Ronit More,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+M Nidheesh,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Babasafi Pathan,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Vidyadhar Patil,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Mukesh Kumar Singh,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+R Alexandar,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Jasmer Dhankhar,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Prerit Dutta,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+S Kishan Kumar,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Swaraj Wabale,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Jaideep Bhambhu,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+V Koushik,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Akash Madhwal,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Amit Mishra,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Anuj Raj,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Abhijeet Saket,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Rahul Shukla,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Bandaru Ayyappa,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Gurnoor Singh Brar,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Akash Choudhary,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Mohit Jangra,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Aaqib Khan,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Arpit Guleria,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Vipul Krishna,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Safvan Patel,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Chinntla Readdi,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Manish Reddy,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Ravi Sharma,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Shubham Singh,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+V Athisayaraj,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+MB Darshan,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+V Gowtham,India,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Rajat Patidar,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Mohammed Azharuddeen,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Vishnu Solanki,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Sachin Baby,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Ricky Bhui,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Himanshu Rana,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Harnoor Singh,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Himmat Singh,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Virat Singh,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Tanmay Agarwal,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Shivam Chauhan,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Nikhil Gangta,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Rohan Kadam,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Priyank Panchal,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Sameer Rizvi,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Ritwik Roy Chowdhury,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Apoorv Wankhade,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Ankush Bains,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Prashant Chopra,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Kedar Devdhar,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Shreevats Goswami,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Akshdeep Nath,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Aditya Tare,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Upendra Singh Yadav,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Sudip Chatterjee,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Hiten Dalal,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Abhimanyu Easwaran,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Rahul Gahlaut,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Amandeep Khare,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Mayank Rawat,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Dhruv Shorey,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Kaif Ahmad,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Shubhum Arora,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Eknath Kerkar,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Nikhil Naik,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Urvil Patel,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+BR Sharath,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+KL Shrijith,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Qamran Iqbal,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Ishank Jaggi,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Rohan Kunnummal,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Tanmay Srivastava,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Yash Nahar,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Shubham Singh Rohilla,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Naushad Shaikh,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Rahul Chandrol,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Harvik Desai,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Tarang Gohel,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Fazil Makaya,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Sandeep Kumar Tomar,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Siddhesh Wath,India,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Bhupen Lalwani,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Henan Malik,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Pukhraj Mann,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Shashwat Rawat,India,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Piyush Chawla,India,BOWLER,10000000,0,N.A.,UNSOLD,N.A.
+Kedar Jadhav,India,ALL-ROUNDER,10000000,0,N.A.,UNSOLD,N.A.
+Amit Mishra,India,BOWLER,15000000,0,N.A.,UNSOLD,N.A.
+Ishant Sharma,India,BOWLER,15000000,0,N.A.,UNSOLD,N.A.
+Suresh Raina,India,BATSMAN,20000000,0,N.A.,UNSOLD,N.A.
+Jalaj Saxena,India,BOWLER,3000000,0,N.A.,UNSOLD,N.A.
+Harpreet Bhatia,India,BATSMAN,4000000,0,N.A.,UNSOLD,N.A.
+Arun Karthick,India,WICKETKEEPER,4000000,0,N.A.,UNSOLD,N.A.
+Cheteshwar Pujara,India,BATSMAN,5000000,0,N.A.,UNSOLD,N.A.
+Saurabh Tiwary,India,BATSMAN,5000000,0,N.A.,UNSOLD,N.A.
+Sandeep Warrier,India,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Rahul Sharma,India,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Hanuma Vihari,India,BATSMAN,5000000,0,N.A.,UNSOLD,N.A.
+Pawan Negi,India,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Manoj Tiwary,India,BATSMAN,5000000,0,N.A.,UNSOLD,N.A.
+Parvez Rasool,India,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Mohit Sharma,India,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Barinder Sran,India,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Murali Vijay,India,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+S Sreesanth,India,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Dhawal Kulkarni,India,BOWLER,7500000,0,N.A.,UNSOLD,N.A.
+Marnus Labuschagne,Australia,BATSMAN,10000000,0,N.A.,UNSOLD,N.A.
+Tabraiz Shamsi,South Africa,BOWLER,10000000,0,N.A.,UNSOLD,N.A.
+Joshua Philippe,Australia,WICKETKEEPER,10000000,0,N.A.,UNSOLD,N.A.
+Andrew Tye,Australia,BOWLER,10000000,0,N.A.,UNSOLD,N.A.
+Rilee Rossouw,South Africa,BATSMAN,10000000,0,N.A.,UNSOLD,N.A.
+Roston Chase,West Indies,ALL-ROUNDER,10000000,0,N.A.,UNSOLD,N.A.
+Moises Henriques,Australia,ALL-ROUNDER,10000000,0,N.A.,UNSOLD,N.A.
+Colin De Grandhomme,New Zealand,ALL-ROUNDER,10000000,0,N.A.,UNSOLD,N.A.
+James Faulkner,Australia,ALL-ROUNDER,10000000,0,N.A.,UNSOLD,N.A.
+Darcy Short,Australia,ALL-ROUNDER,10000000,0,N.A.,UNSOLD,N.A.
+Aaron Finch,Australia,BATSMAN,15000000,0,N.A.,UNSOLD,N.A.
+Dawid Malan,England,BATSMAN,15000000,0,N.A.,UNSOLD,N.A.
+Eoin Morgan,England,BATSMAN,15000000,0,N.A.,UNSOLD,N.A.
+Chris Lynn,Australia,BATSMAN,15000000,0,N.A.,UNSOLD,N.A.
+Usman Khawaja,Australia,BATSMAN,15000000,0,N.A.,UNSOLD,N.A.
+Lewis Gregory,England,ALL-ROUNDER,15000000,0,N.A.,UNSOLD,N.A.
+Kane Richardson,Australia,BOWLER,15000000,0,N.A.,UNSOLD,N.A.
+Colin Munro,New Zealand,ALL-ROUNDER,15000000,0,N.A.,UNSOLD,N.A.
+Steven Smith,Australia,BATSMAN,20000000,0,N.A.,UNSOLD,N.A.
+Shakib Al Hasan,Bangladesh,ALL-ROUNDER,20000000,0,N.A.,UNSOLD,N.A.
+Adil Rashid,England,BOWLER,20000000,0,N.A.,UNSOLD,N.A.
+Imran Tahir,South Africa,BOWLER,20000000,0,N.A.,UNSOLD,N.A.
+Mujeeb Zadran,Afghanistan,BOWLER,20000000,0,N.A.,UNSOLD,N.A.
+Adam Zampa,Australia,BOWLER,20000000,0,N.A.,UNSOLD,N.A.
+James Vince,England,BATSMAN,20000000,0,N.A.,UNSOLD,N.A.
+Marchant De Lange,South Africa,BOWLER,20000000,0,N.A.,UNSOLD,N.A.
+Saqib Mahmood,England,BOWLER,20000000,0,N.A.,UNSOLD,N.A.
+Ashton Agar,Australia,ALL-ROUNDER,20000000,0,N.A.,UNSOLD,N.A.
+Craig Overton,England,ALL-ROUNDER,20000000,0,N.A.,UNSOLD,N.A.
+Hayden Kerr,Australia,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Matheesha Pathirana,Sri Lanka,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Jacob Lintott,England,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Izharulhuq Naveed,Afghanistan,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Tanveer Sangha,Australia,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Alex Ross,Australia,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Cam Fletcher,New Zealand,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Ryan Rickelton,South Africa,WICKETKEEPER,2000000,0,N.A.,UNSOLD,N.A.
+Adithya Ashok,New Zealand,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Jon Russ Jaggesar,West Indies,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Kevin Koththigoda,Sri Lanka,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Donowan Ferreira,South Africa,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Jake Weatherald,Australia,BATSMAN,2000000,0,N.A.,UNSOLD,N.A.
+Gerald Coetzee,South Africa,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Nandre Burger,South Africa,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Nuwan Thushara,Sri Lanka,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Gael Pretorius,South Africa,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Ruben Trumpelmann,Namibia,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Corbin Bosch,South Africa,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Nathan McAndrew,Australia,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Tom Rogers,Australia,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Johannes Smit,Namibia,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Ottneil Baartman,South Africa,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Khwezi Gumede,South Africa,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Liam Guthrie,Australia,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Liam Hatcher,Australia,BOWLER,2000000,0,N.A.,UNSOLD,N.A.
+Shafiqullah Ghafari,Afghanistan,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Jason Sangha,Australia,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Duan Jansen,South Africa,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Matthew Short,Australia,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Nyeem Young,West Indies,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Ryan John,West Indies,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Beyers Swanepoel,South Africa,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Aidan Cahill,Australia,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Mark Deyal,West Indies,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Safyaan Sharif,Scotland,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Henry Shipley,New Zealand,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Johan Van Dyk,South Africa,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Dunith Wellalage,Sri Lanka,ALL-ROUNDER,2000000,0,N.A.,UNSOLD,N.A.
+Ben Dwarshuis,Australia,BOWLER,3000000,0,N.A.,UNSOLD,N.A.
+Matt Kelly,Australia,BOWLER,3000000,0,N.A.,UNSOLD,N.A.
+Sandeep Lamichhane,Nepal,BOWLER,4000000,0,N.A.,UNSOLD,N.A.
+Tom Kohler-Cadmore,England,BATSMAN,4000000,0,N.A.,UNSOLD,N.A.
+Laurie Evans,England,BATSMAN,4000000,0,N.A.,UNSOLD,N.A.
+Kennar Lewis,West Indies,WICKETKEEPER,4000000,0,N.A.,UNSOLD,N.A.
+Ali Khan,USA,BOWLER,4000000,0,N.A.,UNSOLD,N.A.
+Chris Green,Australia,ALL-ROUNDER,4000000,0,N.A.,UNSOLD,N.A.
+Sheldon Cottrell,West Indies,BOWLER,7500000,0,N.A.,UNSOLD,N.A.
+Reece Topley,England,BOWLER,7500000,0,N.A.,UNSOLD,N.A.
+Todd Astle,New Zealand,BOWLER,7500000,0,N.A.,UNSOLD,N.A.
+Martin Guptill,New Zealand,BATSMAN,7500000,0,N.A.,UNSOLD,N.A.
+Ben Cutting,Australia,ALL-ROUNDER,7500000,0,N.A.,UNSOLD,N.A.
+Scott Kuggeleijn,New Zealand,ALL-ROUNDER,7500000,0,N.A.,UNSOLD,N.A.
+Darren Bravo,West Indies,BATSMAN,7500000,0,N.A.,UNSOLD,N.A.
+Carlos Brathwaite,West Indies,ALL-ROUNDER,7500000,0,N.A.,UNSOLD,N.A.
+Keemo Paul,West Indies,ALL-ROUNDER,7500000,0,N.A.,UNSOLD,N.A.
+Billy Stanlake,Australia,BOWLER,7500000,0,N.A.,UNSOLD,N.A.
+Qais Ahmad,Afghanistan,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Ish Sodhi,New Zealand,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Najibullah Zadran,Afghanistan,BATSMAN,5000000,0,N.A.,UNSOLD,N.A.
+Charith Asalanka,Sri Lanka,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+George Garton,England,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Litton Das,Bangladesh,WICKETKEEPER,5000000,0,N.A.,UNSOLD,N.A.
+Niroshan Dickwella,Sri Lanka,WICKETKEEPER,5000000,0,N.A.,UNSOLD,N.A.
+Andre Fletcher,West Indies,WICKETKEEPER,5000000,0,N.A.,UNSOLD,N.A.
+Rahmanullah Gurbaz,Afghanistan,WICKETKEEPER,5000000,0,N.A.,UNSOLD,N.A.
+Shai Hope,West Indies,WICKETKEEPER,5000000,0,N.A.,UNSOLD,N.A.
+Heinrich Klaasen,South Africa,WICKETKEEPER,5000000,0,N.A.,UNSOLD,N.A.
+Ben Mcdermott,Australia,WICKETKEEPER,5000000,0,N.A.,UNSOLD,N.A.
+Kusal Mendis,Sri Lanka,WICKETKEEPER,5000000,0,N.A.,UNSOLD,N.A.
+Kusal Perera,Sri Lanka,WICKETKEEPER,5000000,0,N.A.,UNSOLD,N.A.
+Akila Dhananjaya,Sri Lanka,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Zahir Khan,Afghanistan,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Keshav Maharaj,South Africa,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Waqar Salamkheil,Afghanistan,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Hayden Walsh,West Indies,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Brandon King,West Indies,BATSMAN,5000000,0,N.A.,UNSOLD,N.A.
+Janneman Malan,South Africa,BATSMAN,5000000,0,N.A.,UNSOLD,N.A.
+Paul Stirling,Ireland,BATSMAN,5000000,0,N.A.,UNSOLD,N.A.
+Hazratullah Zazai,Afghanistan,BATSMAN,5000000,0,N.A.,UNSOLD,N.A.
+Akeal Hosein,West Indies,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Karim Janat,Afghanistan,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Taskin Ahmed,Bangladesh,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Naveen Ul Haq,Afghanistan,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+David Wiese,Namibia,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Shamrah Brooks,West Indies,BATSMAN,5000000,0,N.A.,UNSOLD,N.A.
+Avishka Fernando,Sri Lanka,BATSMAN,5000000,0,N.A.,UNSOLD,N.A.
+Zubayr Hamza,South Africa,BATSMAN,5000000,0,N.A.,UNSOLD,N.A.
+Pathum Nissaanka,Sri Lanka,BATSMAN,5000000,0,N.A.,UNSOLD,N.A.
+Kurtis Patterson,Australia,BATSMAN,5000000,0,N.A.,UNSOLD,N.A.
+Hashmatullah Shahidi,Afghanistan,BATSMAN,5000000,0,N.A.,UNSOLD,N.A.
+Gulbadin Naib,Afghanistan,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Dasun Shanaka,Sri Lanka,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Wesley Agar,Australia,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Shoriful Islam,Bangladesh,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Josh Little,Ireland,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Blessing Muzarabani,Zimbabwe,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Jayden Seales,West Indies,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Neil Wagner,New Zealand,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Curtis Campher,Ireland,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Wayne Parnell,South Africa,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Samit Patel,England,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Thisara Perera,Sri Lanka,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Jack Wildermuth,Australia,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Hamish Bennett,New Zealand,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Daryn Dupavillon,South Africa,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Fidel Edwards,West Indies,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Hamid Hassan,Afghanistan,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Lahiru Kumara,Sri Lanka,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Joel Paris,Australia,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Oshane Thomas,West Indies,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Blair Tickner,New Zealand,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Isuru Udana,Sri Lanka,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
+Mark Adnair,Ireland,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Hilton Cartwright,Australia,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Gareth Delany,Ireland,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Danushka Gunatilaka,Sri Lanka,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Anaru Kitchen,New Zealand,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Dhananjaya Lakshan,Sri Lanka,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Sisanda Magala,South Africa,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Andile Phehlukwayo,South Africa,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Seekkuge Prasanna,Sri Lanka,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Raymon Reifer,West Indies,ALL-ROUNDER,5000000,0,N.A.,UNSOLD,N.A.
+Brad Wheal,Scotland,BOWLER,5000000,0,N.A.,UNSOLD,N.A.
