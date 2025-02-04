@@ -37,13 +37,13 @@ The primary objective of this project is to uncover insights from the auction da
   
 **Tools and Techniques:**
 
-**NumPy:** For efficient numerical operations and data manipulation.
-
-    
-**Pandas:** For data cleaning, transformation, and analysis, allowing us to handle and process the dataset effectively.
-
-    
-**Matplotlib:** For creating visualizations to illustrate key findings and trends in the data.
+**Tools:**
 
 
-**Seaborn:** For creating statistical plots that simplify data exploration and highlight patterns in the data.
+**NumPy:** Data handling.
+
+
+**Pandas:** Data cleaning and analysis.
+
+
+**Matplotlib & Seaborn:** Visualize trends and insights.
